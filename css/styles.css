@@ -27,7 +27,12 @@ ul {
   list-style: none;
 }
 
-.header-address-link:hover,
+.header-link:hover,
+.header-link:focus {
+  color: #404bbf;
+}
+
+. .header-address-link:hover,
 .header-address-link:focus {
   color: #404bbf;
 }
@@ -37,7 +42,7 @@ ul {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -47,7 +52,7 @@ ul {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -72,6 +77,7 @@ ul {
 
 .title-text {
   color: #fff;
+  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -109,12 +115,13 @@ ul {
   background-color: #f4f4fd;
 }
 
-.team-list {
+.team-items {
   background-color: #fff;
 }
 
 .team-title {
   color: #2e2f42;
+  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -137,6 +144,7 @@ ul {
 
 .portfolio-title {
   color: #2e2f42;
+  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -166,7 +174,7 @@ ul {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -176,7 +184,7 @@ ul {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
