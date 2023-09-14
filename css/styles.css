@@ -32,7 +32,7 @@ ul {
   color: #404bbf;
 }
 
-.header-logo-iris {
+.header-logo {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
@@ -42,7 +42,7 @@ ul {
   text-transform: uppercase;
 }
 
-.header-logo {
+.header-logo-navy {
   color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
@@ -61,6 +61,7 @@ ul {
 
 .header-address-link {
   color: #434455;
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -71,7 +72,6 @@ ul {
 
 .title-text {
   color: #fff;
-  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
@@ -85,6 +85,11 @@ ul {
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
+}
+
+.title-btn:hover,
+.title-btn:focus {
+  background-color: #404bbf;
 }
 
 .adv-subtitle {
@@ -104,9 +109,12 @@ ul {
   background-color: #f4f4fd;
 }
 
+.team-list {
+  background-color: #fff;
+}
+
 .team-title {
   color: #2e2f42;
-  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -116,7 +124,6 @@ ul {
 
 .team-subtitle {
   color: #2e2f42;
-  text-align: center;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -124,14 +131,12 @@ ul {
 }
 
 .team-text {
-  text-align: center;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
 .portfolio-title {
   color: #2e2f42;
-  text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -156,7 +161,7 @@ ul {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.footer-logo-navy {
   color: #f4f4fd;
   font-family: Raleway;
   font-size: 18px;
@@ -166,7 +171,7 @@ ul {
   text-transform: uppercase;
 }
 
-.footer-logo-iris {
+.footer-logo {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
