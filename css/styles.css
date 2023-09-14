@@ -39,6 +39,7 @@ ul {
 
 .header-logo {
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -48,6 +49,7 @@ ul {
 
 .header-logo-navy {
   color: #2e2f42;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -173,6 +175,7 @@ ul {
 
 .footer-logo-navy {
   color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -182,6 +185,7 @@ ul {
 
 .footer-logo {
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
