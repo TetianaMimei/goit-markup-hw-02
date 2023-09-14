@@ -32,7 +32,7 @@ ul {
   color: #404bbf;
 }
 
-. .header-address-link:hover,
+.header-address-link:hover,
 .header-address-link:focus {
   color: #404bbf;
 }
@@ -62,9 +62,13 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.header-address {
+  font-style: normal;
+}
+
 .header-address-link {
   color: #434455;
-  font-style: normal;
+
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
